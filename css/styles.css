@@ -1,0 +1,36 @@
+li {
+    padding-top: 10px;
+}
+#main {
+    background: #F3F4ED;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+}
+
+#tribute-info {
+    width: 700px;
+    margin: auto;
+}
+
+#image {
+    display: block;
+    width: 70%;
+    height:auto;
+    margin: auto;
+}
+
+#img-div {
+    background: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.verticalPaddings {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
